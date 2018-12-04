@@ -1,8 +1,8 @@
-# DS 2.1 Machine Learning
+# DS 2.2 Deep Learning
 
 ## Course Description
 
-Students will learn the foundational concepts and techniques of machine learning and how to apply those techniques to data science. Principles of data science and machine learning will be examined and applied to problem solving.  Students will master data science processes and its applications, including how to wrangle and use data to train classification or prediction models. To demonstrate mastery, students will apply these techniques to develop and train models on data sets using industry-standard modern software libraries and tools. Students will develop “sharp” data science questions, select a data set and apply a variety of methods to explore those questions and find relevant answers.
+Explore the cutting edge of data science: deep learning. Begin by understanding the basic computational unit of artificial neural networks: the perceptron. Study their neurological inspiration, mathematical basis in linear regression, and graphical interpretation of weights and threshold to gain an intuition for their power. Build a perceptron from scratch and train it using the perceptron learning algorithm. Explore the limitations of perceptrons and how non-linear activation functions enhance their power. Combine many perceptrons to construct feed-forward neural networks and program a training algorithm using error back-propagation and gradient descent. Compare and contrast several neural network architectures for solving problems across different domains. Use cutting-edge software libraries and tools including Keras and TensorFlow to construct large-scale networks with relatively little code. Train networks on large data sets to solve hard problems like image classification, face recognition, content generation, and style transfer. Apply these deep learning techniques to an original project and data set.
 
 ### Why you should know this?
 
@@ -20,7 +20,7 @@ Class Sessions:  14 classes, 7 labs
 
 ## Prerequisites:  
 
-DS 1.1, CS 1.1 <br>
+DS 1.1, CS 1.1, CS 1.2 <br>
 
 ## Learning Objectives or Competencies (5-8)
 
