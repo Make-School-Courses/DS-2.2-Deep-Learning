@@ -42,7 +42,7 @@ By the end of the course the students will be able to
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|   1   |  Monday, October 22    | [Introduction to Machine Learning] |
+|   1   |  Monday, October 22    | [What is Neural Network?] |
 |   2   | Wednesday, October 24    | [Linear Regression] |
 |   3   |  Monday, October 29  | [Support Vector Machine] |
 |   4   | Wednesday, November 31  | [Model Evaluation] |
@@ -59,7 +59,7 @@ By the end of the course the students will be able to
 |  13   | Monday, December 10   | [Project Presentation] |
 |  14   | Wednesday, December 12   | Final Exams |
 
-[Introduction to Machine Learning]: Lessons/IntroductiontoMachineLearning.md
+[What is Neural Network?]: Lessons/WhatisNeuralNetwork.md
 [Linear Regression]: Lessons/LinearRegression.md
 [Support Vector Machine]: Lessons/SupportVectorMachine.md
 [Model Evaluation]: Lessons/ModelEvaluation.md
