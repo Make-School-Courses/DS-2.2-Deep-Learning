@@ -44,7 +44,7 @@ By the end of the course the students will be able to
 |:-----:|:----------------------:|:---------------------------------------:|
 |   1   |  Monday, October 22    | [What is Neural Network?] |
 |   2   | Wednesday, October 24    | [Introduction to Keras] |
-|   3   |  Monday, October 29  | [Support Vector Machine] |
+|   3   |  Monday, October 29  | [Deep Learning Glossary] |
 |   4   | Wednesday, November 31  | [Model Evaluation] |
 |   5   |  Monday, November 5 | [Principal Component Analysis] |
 |   6   | Wednesday, November 7 | [Decision Tree] |
@@ -61,7 +61,7 @@ By the end of the course the students will be able to
 
 [What is Neural Network?]: Lessons/WhatisNeuralNetwork.md
 [Introduction to Keras]: Lessons/IntroductiontoKeras.md
-[Support Vector Machine]: Lessons/SupportVectorMachine.md
+[Deep Learning Glossary]: Lessons/DeepLearningGlossary.md
 [Model Evaluation]: Lessons/ModelEvaluation.md
 [Principal Component Analysis]: Lessons/PrincipalComponentAnalysis.md
 [Ensemble Methods]:Lessons/EnsembleMethods.md
