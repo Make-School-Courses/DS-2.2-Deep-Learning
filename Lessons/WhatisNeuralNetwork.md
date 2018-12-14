@@ -136,3 +136,6 @@ $D = {\bf y}_t - {\bf y}_p$
 ${\bf y}_p (1 - {\bf y}_p)$ = `slope_hidden_layer`
 
 $\bf {h}$ = `hiddenlayer_activations`
+
+## Other Resources:
+- https://enlight.nyc/projects/neural-network/
