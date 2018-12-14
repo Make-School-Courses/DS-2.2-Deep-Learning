@@ -113,3 +113,27 @@ model.fit(X_train, y_train_one_hot, epochs=100, batch_size=1, verbose=0);
 loss, accuracy = model.evaluate(X_test, y_test_one_hot, verbose=0)
 print("Accuracy = {:.2f}".format(accuracy))
 ```
+
+### How do we update the weights to minimize the error?
+
+First we should define the cost function. for our example here the MSE is our cost function:
+
+$E= \frac{1}{2} ({\bf y}_t - {\bf y}_p)^T ({\bf y}_t - {\bf y}_p)$
+
+We update the weight (${\bf W}_i$ and ${\bf W}_h$) such that the error, $E$, being minimized. The most popular algorithm is Gradient Descent:  
+
+${\bf W}_h = {\bf W}_h + \eta {\partial E}/{\partial {\bf W}_h} $
+
+For our above example we can show that:
+
+${\partial E}/{\partial {\bf W}_h} =  ({\bf y}_t - {\bf y}_p) {\bf y}_p (1 - {\bf y}_p)\bf {h}$
+
+where ${\bf h} = \sigma({\bf W}_i {\bf x}_i + {\bf b}_i)$
+
+In above code:
+
+$D = {\bf y}_t - {\bf y}_p$
+
+${\bf y}_p (1 - {\bf y}_p)$ = `slope_hidden_layer`
+
+$\bf {h}$ = `hiddenlayer_activations`

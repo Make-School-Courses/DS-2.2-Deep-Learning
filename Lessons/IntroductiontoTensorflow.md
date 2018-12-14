@@ -297,7 +297,7 @@ sess.run(tf.global_variables_initializer())
 print(sess.run(body(i, num, 2)))
 ```
 
-### write a tensorflow code that for given index and value updates change the original tensor
+### Write a tensorflow code that for given index and value updates change the original tensor
 
 ```Python
 import tensorflow as tf
