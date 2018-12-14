@@ -63,7 +63,7 @@ By the end of the course the students will be able to
 [Introduction to Keras]: Lessons/IntroductiontoKeras.md
 [Deep Learning Glossary]: Lessons/DeepLearningGlossary.md
 [Convolutional Neural Network]: Lessons/ConvolutionalNeuralNetwork.md
-[Recurrent Neural Network]: Lessons/LRecurrentNeuralNetwork.md
+[Recurrent Neural Network]: Lessons/RecurrentNeuralNetwork.md
 [Ensemble Methods]:Lessons/EnsembleMethods.md
 [Decision Tree]: Lessons/DecisionTree.md
 [Clustering]: Lessons/Clustering.md
