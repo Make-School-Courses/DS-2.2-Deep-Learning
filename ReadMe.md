@@ -47,7 +47,7 @@ By the end of the course the students will be able to
 |   3   |  Monday, October 29  | [Deep Learning Glossary] |
 |   4   | Wednesday, November 31  | [Convolutional Neural Network] |
 |   5   |  Monday, November 5 | [Recurrent Neural Network] |
-|   6   | Wednesday, November 7 | [Decision Tree] |
+|   6   | Wednesday, November 7 | [Keras for Large Datasets] |
 |   7   |  Monday, November 12 | [Clustering] |
 |   8   | Wednesday, November 14 | [Naive Bayes] |
 |      |  Monday, November 19 | **Don Rags** |
@@ -64,7 +64,7 @@ By the end of the course the students will be able to
 [Deep Learning Glossary]: Lessons/DeepLearningGlossary.md
 [Convolutional Neural Network]: Lessons/ConvolutionalNeuralNetwork.md
 [Recurrent Neural Network]: Lessons/RecurrentNeuralNetwork.md
-[Ensemble Methods]:Lessons/EnsembleMethods.md
+[Keras for Large Datasets]:Lessons/KerasforLargeDatasets.md
 [Decision Tree]: Lessons/DecisionTree.md
 [Clustering]: Lessons/Clustering.md
 [Naive Bayes]: Lessons/NaiveBayes.md
