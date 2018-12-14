@@ -113,15 +113,26 @@ for i in range(epoch):
 print(output)
 ```
 
-## Overview/TT II (optional) (20 min)
+### How do we update the weights to minimize the error?
 
+First we should define the cost function. for our example here the MSE is our cost function:
 
-## Wrap Up (5 min)
+$E= \frac{1}{2} ({\bf y}_t - {\bf y}_p)^T ({\bf y}_t - {\bf y}_p)$
 
-- Continue working on your current tutorial
-- Complete reading
-- Complete challenges
+We update the weight (${\bf W}_i$ and ${\bf W}_h$) such that the error, $E$, being minimized. The most popular algorithm is Gradient Descent:  
 
-## Additional Resources
+${\bf W}_h = {\bf W}_h + \eta {\partial E}/{\partial {\bf W}_h} $
 
-1. https://enlight.nyc/projects/neural-network/
+For our above example we can show that:
+
+${\partial E}/{\partial {\bf W}_h} =  ({\bf y}_t - {\bf y}_p) {\bf y}_p (1 - {\bf y}_p)\bf {h}$
+
+where ${\bf h} = \sigma({\bf W}_i {\bf x}_i + {\bf b}_i)$
+
+In above code:
+
+$D = {\bf y}_t - {\bf y}_p$
+
+${\bf y}_p (1 - {\bf y}_p)$ = `slope_hidden_layer`
+
+$\bf {h}$ = `hiddenlayer_activations`
