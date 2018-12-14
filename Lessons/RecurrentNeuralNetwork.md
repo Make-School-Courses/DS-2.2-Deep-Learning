@@ -97,7 +97,7 @@ print("%s: %.2f%%" % (model.metrics_names[1], scores[1]*100))
 
 - Assume the subscript *t* indexes the time step
 
-<img src="lstm_math.png" width="800" height="800">
+![](../Notebooks/Images/lstm_math.png)
 
 - We have four W, four U and four bias
 
