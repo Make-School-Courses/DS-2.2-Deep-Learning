@@ -2,8 +2,8 @@
 
 ### Learning Objectives
 - Learn how to handle datasets that will not fit into memory and use them for Keras training
-- What is fit generator
-- What is predict generator
+- What is fit generator and predict generator
+- What is Transfer Learning
 
 ## Train a deep learning model on a large dataset
 
