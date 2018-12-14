@@ -46,7 +46,7 @@ By the end of the course the students will be able to
 |   2   | Wednesday, October 24    | [Introduction to Keras] |
 |   3   |  Monday, October 29  | [Deep Learning Glossary] |
 |   4   | Wednesday, November 31  | [Convolutional Neural Network] |
-|   5   |  Monday, November 5 | [Principal Component Analysis] |
+|   5   |  Monday, November 5 | [Recurrent Neural Network] |
 |   6   | Wednesday, November 7 | [Decision Tree] |
 |   7   |  Monday, November 12 | [Clustering] |
 |   8   | Wednesday, November 14 | [Naive Bayes] |
@@ -63,7 +63,7 @@ By the end of the course the students will be able to
 [Introduction to Keras]: Lessons/IntroductiontoKeras.md
 [Deep Learning Glossary]: Lessons/DeepLearningGlossary.md
 [Convolutional Neural Network]: Lessons/ConvolutionalNeuralNetwork.md
-[Principal Component Analysis]: Lessons/PrincipalComponentAnalysis.md
+[Recurrent Neural Network]: Lessons/LRecurrentNeuralNetwork.md
 [Ensemble Methods]:Lessons/EnsembleMethods.md
 [Decision Tree]: Lessons/DecisionTree.md
 [Clustering]: Lessons/Clustering.md
