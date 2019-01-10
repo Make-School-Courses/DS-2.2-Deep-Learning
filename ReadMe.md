@@ -22,15 +22,15 @@ Class Sessions:  14 classes, 7 labs
 
 DS 1.1, CS 1.1, CS 1.2 <br>
 
-## Learning Objectives or Competencies (5-8)
+## Learning Objectives
 
 By the end of the course the students will be able to
 
 1. Identify a prediction problem and choose the appropriate regression model
-1. Identify a classification problem and choose the appropriate  classifier
+1. Identify a classification problem and choose the appropriate classifier
 1. Evaluate either a regression model or a classifier
 1. Cluster un-label dataset to groups   
-1. Compare different models and choose the best model while tune the model hyper-parameters
+1. Compare different models and choose the best model while tuning the model hyper-parameters
 
 
 
