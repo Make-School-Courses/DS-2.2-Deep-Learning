@@ -104,3 +104,49 @@ print(model.summary())
 - The parameters for dense_1 = 9216 x 128 + 128 = 1179776
 
 - The parameters for dense_2 = 128 x 10 + 10 = 1290
+
+## Data Preparation for CNN
+
+- Suppose we want to feed a 4 by 4 image to a CNN network, how we should reshape the data?
+
+```Python
+from keras.layers import Input, Dense, Conv2D, MaxPooling2D, UpSampling2D
+from keras.models import Model
+from keras import backend as K
+import numpy as np
+
+input_img = Input(shape=(4, 4, 1))  # adapt this if using `channels_first` image data format
+
+x = Conv2D(2, (2, 2), activation='relu')(input_img)
+y = Conv2D(3, (2, 2), activation='relu')(x)
+model = Model(input_img, y)
+# cnv_ml_1 = Model(input_img, x)
+
+data = np.array([[5, 12, 1, 8], [2, 10, 3, 6], [4, 7, 9, 1], [5, 7, 5, 6]])
+data = data.reshape(1, 4, 4, 1)
+print(model.predict(data))
+print('M :')
+print(model.predict(data).reshape(3, 2, 2))
+print(model.summary())
+```
+
+```Python
+from keras.datasets import mnist
+
+img_rows, img_cols = 28, 28
+
+# the data, split between train and test sets
+(x_train, y_train), (x_test, y_test) = mnist.load_data()
+
+if K.image_data_format() == 'channels_first':
+    x_train = x_train.reshape(x_train.shape[0], 1, img_rows, img_cols)
+    x_test = x_test.reshape(x_test.shape[0], 1, img_rows, img_cols)
+    input_shape = (1, img_rows, img_cols)
+else:
+    x_train = x_train.reshape(x_train.shape[0], img_rows, img_cols, 1)
+    x_test = x_test.reshape(x_test.shape[0], img_rows, img_cols, 1)
+    input_shape = (img_rows, img_cols, 1)
+
+print(x_train[0].shape)
+print(x_train[1].shape)
+```
