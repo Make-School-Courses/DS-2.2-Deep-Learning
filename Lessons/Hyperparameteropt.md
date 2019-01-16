@@ -103,3 +103,7 @@ if __name__ == '__main__':
     print("Best performing model chosen hyper-parameters:")
     print(best_run)
 ```
+
+## Another Example
+
+https://www.kaggle.com/kt66nf/hyperparameter-optimization-using-keras-hyperas
