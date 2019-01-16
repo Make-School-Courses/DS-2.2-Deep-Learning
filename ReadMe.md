@@ -20,44 +20,50 @@ Class Sessions:  14 classes, 7 labs
 
 ## Prerequisites:  
 
-DS 1.1, CS 1.1, CS 1.2 <br>
+- CS 1.1
 
-## Learning Objectives
+- CS 1.2
+
+- DS 1.1
+
+- DS 2.1
+
+## Learning Objectives or Competencies (5-8)
 
 By the end of the course the students will be able to
 
 1. Identify a prediction problem and choose the appropriate regression model
-1. Identify a classification problem and choose the appropriate classifier
+1. Identify a classification problem and choose the appropriate  classifier
 1. Evaluate either a regression model or a classifier
 1. Cluster un-label dataset to groups   
-1. Compare different models and choose the best model while tuning the model hyper-parameters
+1. Compare different models and choose the best model while tune the model hyper-parameters
 
 
 
 ## Schedule
+**Course Dates:** Monday, January 21 – Wednesday, March 6, 2019 (7 weeks)
 
-**Course Dates:** Monday, October 22 – Wednesday, December 12, 2018 (7 weeks)
-
-**Class Times:** Monday and Wednesday at 1:30–3:20pm (13 class sessions)
+**Class Times:** Monday and Wednesday at 3:30–5:20pm (10 class sessions)
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|   1   |  Monday, October 22    | [What is Neural Network?] |
-|   2   | Wednesday, October 24    | [Introduction to Keras] |
-|   3   |  Monday, October 29  | [Deep Learning Glossary] |
-|   4   | Wednesday, November 31  | [Convolutional Neural Network] |
-|   5   |  Monday, November 5 | [Recurrent Neural Network] |
-|   6   | Wednesday, November 7 | [Keras for Large Datasets] |
-|   7   |  Monday, November 12 | [Deep Learning Model Evaluation] |
-|   8   | Wednesday, November 14 | [Introduction to Tensorflow] |
-|      |  Monday, November 19 | **Don Rags** |
-|     | Wednesday, November 21 | **Fall Break** |
-|  9   |  Monday, November 26    | [Ensemble Methods] |
-|  10   | Wednesday, November 28    | [Feature Selection] |
-|  11     |  Monday, December 3    | [SMOTE] |
-|  12   | Wednesday, December 5   | [Pipeline] |
-|  13   | Monday, December 10   | [Project Presentation] |
-|  14   | Wednesday, December 12   | Final Exams |
+|  -  | Monday, January 21             | **MLK Jr. Day** |
+|  1 | Wednesday, January 23    | [What is Neural Network?] |
+|  2 | Monday, January 28             | [Introduction to Keras] |
+|  3 |  Wednesday, January 30             | [Deep Learning Glossary] |
+|  4 | Monday, February 4             | [Convolutional Neural Network] |
+|  5 |  Wednesday, February 6             | [Recurrent Neural Network] |
+|  6 | Monday, February 11             | [Keras for Large Datasets] |
+|  7 |  Wednesday, February 13            | [Deep Learning Model Evaluation] |
+|  -  | Monday, February 18             | **President's Day (Observed)** |
+|  8  | **Tuesday, February 19**             | [Introduction to Tensorflow] |
+|  9 |  Wednesday, February 20            | [Hyper-parameter opt] |
+|  10 | Monday, February 25             | [Auto Encoders] |
+|  11 |  Wednesday, February 27            | [Array and matrix manipulation] |
+|  12 | Monday, March 4             | Final Class (presentations, etc) |
+|  13 |  Wednesday, March 6            | Final Exams/Presentations |
+
+
 
 [What is Neural Network?]: Lessons/WhatisNeuralNetwork.md
 [Introduction to Keras]: Lessons/IntroductiontoKeras.md
