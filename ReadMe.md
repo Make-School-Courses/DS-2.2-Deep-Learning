@@ -57,7 +57,7 @@ By the end of the course the students will be able to
 |  7 |  Wednesday, February 13            | [Deep Learning Model Evaluation] |
 |  -  | Monday, February 18             | **President's Day (Observed)** |
 |  8  | **Tuesday, February 19**             | [Introduction to Tensorflow] |
-|  9 |  Wednesday, February 20            | [Hyper-parameter opt] |
+|  9 |  Wednesday, February 20            | [Hyper parameter opt] |
 |  10 | Monday, February 25             | [Auto Encoders] |
 |  11 |  Wednesday, February 27            | [Array and matrix manipulation] |
 |  12 | Monday, March 4             | Final Class (presentations, etc) |
@@ -73,15 +73,18 @@ By the end of the course the students will be able to
 [Keras for Large Datasets]:Lessons/KerasforLargeDatasets.md
 [Deep Learning Model Evaluation]: Lessons/DeepLearningModelEvaluation.md
 [Introduction to Tensorflow]: Lessons/IntroductiontoTensorflow.md
-[Naive Bayes]: Lessons/NaiveBayes.md
+[Hyper parameter opt]: Lessons/Hyperparameteropt.md
 
 ## Class Assignments
-- Apply Linear Regression for Boston Housing Dataset
-- Apply SVM for Breast Cancer Dataset
+
+- Build a linear regression and logistic regression with Keras
+- Apply MLP for Churn dataset by Keras
+- Apply MLP to MNIST datasets
+- Change batch_size, add Batch Normalization layer and reports their effect on DL performances
 - Projects should be linked to a project page which has a description & requirements.
 
 ### Tutorials
-- We'll be exploring basic machine learning algorithms applied on to simple datasets with an emphasis on getting basic model functionality
+- We'll be exploring Keras on Cifar dataset
 - https://www.makeschool.com/academy/track/ds-2-1-classification-tutorial
 
 ### Projects
