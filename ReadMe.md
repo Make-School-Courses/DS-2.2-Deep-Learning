@@ -75,6 +75,7 @@ By the end of the course the students will be able to
 [Introduction to Tensorflow]: Lessons/IntroductiontoTensorflow.md
 [Hyper parameter opt]: Lessons/Hyperparameteropt.md
 [Auto Encoders]: Lessons/AutoEncoders.md
+[Array and matrix manipulation]:Lessons/Arrayandmatrixmanipulation.md
 
 ## Class Assignments
 
