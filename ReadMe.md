@@ -74,6 +74,7 @@ By the end of the course the students will be able to
 [Deep Learning Model Evaluation]: Lessons/DeepLearningModelEvaluation.md
 [Introduction to Tensorflow]: Lessons/IntroductiontoTensorflow.md
 [Hyper parameter opt]: Lessons/Hyperparameteropt.md
+[Auto Encoders]: Lessons/AutoEncoders.md
 
 ## Class Assignments
 
