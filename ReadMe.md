@@ -32,11 +32,11 @@ Class Sessions:  14 classes, 7 labs
 
 By the end of the course the students will be able to
 
-1. Identify a prediction problem and choose the appropriate regression model
-1. Identify a classification problem and choose the appropriate  classifier
-1. Evaluate either a regression model or a classifier
-1. Cluster un-label dataset to groups   
-1. Compare different models and choose the best model while tune the model hyper-parameters
+1. Know what is neural net and deep learning model
+1. How they can use deep learning model for prediction or classification problems
+1. Use MLP, CNN and LSTM problems based on the needs
+1. Shape data to use appropriate deep learning model   
+1. How can tune deep learning hyper-parameters
 
 
 
@@ -82,7 +82,7 @@ By the end of the course the students will be able to
 - Build a linear regression and logistic regression with Keras
 - Apply MLP for Churn dataset by Keras
 - Apply MLP to MNIST datasets
-- Change batch_size, add Batch Normalization layer and reports their effect on DL performances
+- Change batch size, add Batch Normalization layer and reports their effect on DL model performances
 - Projects should be linked to a project page which has a description & requirements.
 
 ### Tutorials
