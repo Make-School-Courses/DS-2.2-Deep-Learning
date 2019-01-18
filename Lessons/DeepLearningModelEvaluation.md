@@ -1,4 +1,4 @@
-# ## Learning Objectives (Competencies)
+## Learning Objectives (Competencies)
 By the end of this lesson, students will be able to:
 - What is early stopping
 - How we can use TensorBoard

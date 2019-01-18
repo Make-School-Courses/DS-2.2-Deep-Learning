@@ -48,23 +48,23 @@ By the end of the course the students will be able to
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
 |  -  | Monday, January 21             | **MLK Jr. Day** |
-|  1 | Wednesday, January 23    | [What is Neural Network?] |
-|  2 | Monday, January 28             | [Introduction to Keras] |
-|  3 |  Wednesday, January 30             | [Deep Learning Glossary] |
-|  4 | Monday, February 4             | [Convolutional Neural Network] |
-|  5 |  Wednesday, February 6             | [Recurrent Neural Network] |
-|  6 | Monday, February 11             | [Keras for Large Datasets] |
-|  7 |  Wednesday, February 13            | [Deep Learning Model Evaluation] |
+|  1 | Wednesday, January 23    | [Array and matrix manipulation] |
+|  2 | Monday, January 28             | [What is Neural Network?] |
+|  3 |  Wednesday, January 30             | [Introduction to Keras] |
+|  4 | Monday, February 4             | [Deep Learning Glossary] |
+|  5 |  Wednesday, February 6             | [Convolutional Neural Network] |
+|  6 | Monday, February 11             | [Recurrent Neural Network] |
+|  7 |  Wednesday, February 13            | [Keras for Large Datasets] |
 |  -  | Monday, February 18             | **President's Day (Observed)** |
-|  8  | **Tuesday, February 19**             | [Introduction to Tensorflow] |
-|  9 |  Wednesday, February 20            | [Hyper parameter opt] |
-|  10 | Monday, February 25             | [Auto Encoders] |
-|  11 |  Wednesday, February 27            | [Array and matrix manipulation] |
+|  8  | **Tuesday, February 19**             | [Deep Learning Model Evaluation] |
+|  9 |  Wednesday, February 20            | [Introduction to Tensorflow] |
+|  10 | Monday, February 25             | [Hyper parameter opt] |
+|  11 |  Wednesday, February 27            | [Auto Encoders] |
 |  12 | Monday, March 4             | Final Class (presentations, etc) |
 |  13 |  Wednesday, March 6            | Final Exams/Presentations |
 
 
-
+[Array and matrix manipulation]:Lessons/Arrayandmatrixmanipulation.md
 [What is Neural Network?]: Lessons/WhatisNeuralNetwork.md
 [Introduction to Keras]: Lessons/IntroductiontoKeras.md
 [Deep Learning Glossary]: Lessons/DeepLearningGlossary.md
@@ -75,7 +75,7 @@ By the end of the course the students will be able to
 [Introduction to Tensorflow]: Lessons/IntroductiontoTensorflow.md
 [Hyper parameter opt]: Lessons/Hyperparameteropt.md
 [Auto Encoders]: Lessons/AutoEncoders.md
-[Array and matrix manipulation]:Lessons/Arrayandmatrixmanipulation.md
+
 
 ## Class Assignments
 
