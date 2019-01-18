@@ -116,7 +116,7 @@ c = np.dot(a,b)
 print(c)
 ```
 
-## Sudo Inverse of matrix
+## Pseudo inverse of non-squared matrix
 
 ```python
 pinv_a = np.linalg.pinv(a)
