@@ -6,7 +6,7 @@ Explore the cutting edge of data science: deep learning. Begin by understanding 
 
 ### Why you should know this?
 
-Machine learning has shaped our world. Machine learning is the science of getting computers to learn and act like humans do, and improve their learning over time in autonomous fashion, by feeding them data and information in the form of observations and real-world interactions.
+Deep learning has shaped our world. Deep learning is the science of getting computers to learn and act like humans do, and improve their learning over time in autonomous fashion, by feeding them data and information in the form of observations and real-world interactions. It has various applications including natural-language processing (NLP), image classification and segmentation, voice recognition and deep reinforcement learning.
 
 ## Course Specifics
 
