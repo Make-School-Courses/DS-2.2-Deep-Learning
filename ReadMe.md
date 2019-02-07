@@ -82,7 +82,7 @@ By the end of the course the students will be able to
 - Build a linear regression and logistic regression with Keras
 - Apply MLP for Churn dataset by Keras
 - Apply MLP to MNIST datasets
-- Change batch size, add Batch Normalization layer and reports their effect on DL model performances
+- [Build and train a CNN + MLP deep learning model with Keras for MNIST dataset](https://github.com/Make-School-Courses/DS-2.2-Deep-Learning/blob/master/Assignments/CNN_assignment.ipynb)
 - Projects should be linked to a project page which has a description & requirements.
 
 ### Tutorials
