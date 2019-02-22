@@ -32,11 +32,11 @@ Class Sessions:  14 classes, 7 labs
 
 By the end of the course the students will be able to
 
-1. Know what is neural net and deep learning model
-1. How they can use deep learning model for prediction or classification problems
-1. Use MLP, CNN and LSTM problems based on the needs
-1. Shape data to use appropriate deep learning model   
-1. How can tune deep learning hyper-parameters
+1. Describe neural networks and deep learning models
+1. Use deep learning models for prediction or classification problems
+1. Compare and contrast MLP, CNN and LSTM neural networks and identify when to use each
+1. Shape data to use appropriate deep learning models
+1. Practice tuning deep learning hyper-parameters
 
 
 
