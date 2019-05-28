@@ -72,7 +72,7 @@ Students by the end of the course will be able to ...
 
 ### Tutorials
 - We'll be exploring Keras on the Cifar dataset
-- git push -u origin master
+- https://www.makeschool.com/academy/track/standalone/keras-for-image-classification-pfw/keras-and-neural-networks
 
 ### Projects
 - You will choose your own dataset to clean, investigate, and make predictions or classification or clustering on it
