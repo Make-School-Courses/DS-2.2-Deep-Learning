@@ -26,27 +26,23 @@ Students by the end of the course will be able to ...
 
 **NOTE:** Due to the shorter summer sessions, for some class sessions you will see multiple topics covered. This is to ensure that we cover the same material that we normally would in non-summer terms.
 
-**Course Dates:** Monday, January 21 – Wednesday, March 6, 2019 (7 weeks)
+**Course Dates:** Tuesday, May 28 – Tuesday, July 2, 2019 (6 weeks)
 
-**Class Times:** Monday and Wednesday at 3:30–5:20pm (10 class sessions)
+**Class Times:** Tuesday and Thursday at 3:30–5:20pm (11 class sessions)
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  -  | Monday, January 21             | **MLK Jr. Day** |
-|  1 | Wednesday, January 23    | [Array and matrix manipulation] |
-|  2 | Monday, January 28             | [What is Neural Network?] |
-|  3 |  Wednesday, January 30             | [Introduction to Keras] |
-|  4 | Monday, February 4             | [Deep Learning Glossary] |
-|  5 |  Wednesday, February 6             | [Convolutional Neural Network] |
-|  6 | Monday, February 11             | [Recurrent Neural Network] |
-|  7 |  Wednesday, February 13            | [Keras for Large Datasets] |
-|  -  | Monday, February 18             | **President's Day (Observed)** |
-|  8  | **Tuesday, February 19**             | [Deep Learning Model Evaluation] |
-|  9 |  Wednesday, February 20            | [Introduction to Tensorflow] |
-|  10 | Monday, February 25             | [Hyper parameter opt] |
-|  11 |  Wednesday, February 27            | [Auto Encoders] |
-|  12 | Monday, March 4             | Final Class (presentations, etc) |
-|  13 |  Wednesday, March 6            | Final Exams/Presentations |
+|  1 | Tu, May 28 | [Array and matrix manipulation] |
+|  2 | Th, May 30       | [What is Neural Network?] |
+|  3 | Tu, June 4           | [Introduction to Keras] |
+|  4 | Th, June 6       | [Deep Learning Glossary] <br/> **/** <br/> [Convolutional Neural Network] |
+|  5 | Tu, June 11          | [Recurrent Neural Network] |
+|  6 | Th, June 13       | [Keras for Large Datasets] |
+|  7 | Tu, June 18          | [Deep Learning Model Evaluation] |
+|  8  |Th, June 20        | [Introduction to Tensorflow] |
+|  9  |Tu, June 25             | [Hyper parameter opt] <br/> **/** <br/> [Auto Encoders] |
+|  10 | Th, June 27          | Final Exam |
+|  11 |Tu, July 2         | Final Presentations |
 
 
 [Array and matrix manipulation]:Lessons/Arrayandmatrixmanipulation.md
