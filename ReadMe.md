@@ -32,18 +32,22 @@ Students by the end of the course will be able to ...
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  1 | Tu, May 28 | [Array and matrix manipulation] |
-|  2 | Th, May 30       | [What is Neural Network?] |
-|  3 | Tu, June 4           | [Introduction to Keras] |
-|  4 | Th, June 6       | [Deep Learning Glossary] <br/> **/** <br/> [Convolutional Neural Network] |
-|  5 | Tu, June 11          | [Recurrent Neural Network] |
-|  6 | Th, June 13       | [Keras for Large Datasets] |
-|  7 | Tu, June 18          | [Deep Learning Model Evaluation] |
-|  8  |Th, June 20        | [Introduction to Tensorflow] |
-|  9  |Tu, June 25             | [Hyper parameter opt] <br/> **/** <br/> [Auto Encoders] |
-|  10 | Th, June 27          | Final Exam |
-|  11 |Tu, July 2         | Final Presentations |
-
+|  1  | Mon, Oct 21 | [Array and matrix manipulation] |
+|  2  | Wed, Oct 23       | [What is Neural Network?] |
+|  3  | Mon, Oct 28           | [Introduction to Keras] |
+|  4  | Wed, Oct 30       | [Deep Learning Glossary]
+|  5  | Mon, Nov 4       | [Convolutional Neural Network] |
+|  6  | Wed, Nov 6          | [Recurrent Neural Network] |
+|  7  | Mon, Nov 11       | [Keras for Large Datasets] |
+|  8  | Wed, Nov 13          | [Deep Learning Model Evaluation] |
+|  9  | Mon, Nov 18        | [Introduction to Tensorflow] |
+|  10 | Wed, Nov 20             | [Hyper parameter opt]
+| 11  | Mon, Nov 25             | Review|
+| -   | Wed, Nov 27             | **NO CLASS** - Thanksgiving  |
+|  12 | Mon, Dec 2             |[Auto Encoders] |
+|  13 | Wed, Dec 4         |More About Tensorflow|
+|  14 | Mon, Dec 9         | Final Exam |
+| 15  | Wed, Dec 11             | Final Presentations |
 
 [Array and matrix manipulation]:Lessons/Arrayandmatrixmanipulation.md
 [What is Neural Network?]: Lessons/WhatisNeuralNetwork.md
