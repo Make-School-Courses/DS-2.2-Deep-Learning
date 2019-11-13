@@ -6,7 +6,7 @@ x_val, y_val = ...
 
 # 1-dimensional MSE linear regression in Keras
 model = Sequential()
-model.add(Dense(1, input_dim=x.shape[1]))
+model.add(Dense(1, activation='linear', input_dim=x.shape[1]))
 model.compile(optimizer='rmsprop', loss='mse')
 model.fit(x, y, nb_epoch=10, validation_data=(x_val, y_val))
 
