@@ -75,8 +75,8 @@ Students by the end of the course will be able to ...
 | [Homework 2 - Build and train a CNN + MLP deep learning model with Keras for MNIST dataset]                      |  Mon, June 15    |  Mon, June 22   | [Submit Assignment]  |
 | [Homework 3 - Apply MLP for Churn dataset by Keras]                     |  Mon, June 22    |  Mon, June 29   | [Submit Assignment]  |
 
-- [Homework 1 - Build a linear regression and logistic regression with Keras](https://github.com/Make-School-Courses/DS-2.2-Deep-Learning/blob/master/Assignments/HW1.ipynb)
-- [Homework 2 - Build and train a CNN + MLP deep learning model with Keras for MNIST dataset](https://github.com/Make-School-Courses/DS-2.2-Deep-Learning/blob/master/Assignments/CNN_assignment.ipynb)
+- [Homework 1 - Build a linear regression and logistic regression with Keras]: https://github.com/Make-School-Courses/DS-2.2-Deep-Learning/blob/master/Assignments/HW1.ipynb
+- [Homework 2 - Build and train a CNN + MLP deep learning model with Keras for MNIST dataset]: https://github.com/Make-School-Courses/DS-2.2-Deep-Learning/blob/master/Assignments/CNN_assignment.ipynb
 
 
 
