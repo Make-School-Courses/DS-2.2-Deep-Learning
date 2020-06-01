@@ -24,30 +24,35 @@ Students by the end of the course will be able to ...
 
 ## Schedule
 
-**NOTE:** Due to the shorter summer sessions, for some class sessions you will see multiple topics covered. This is to ensure that we cover the same material that we normally would in non-summer terms.
+**Course Dates:** Monday, June 1 – Friday, July 17, 2020 (7 weeks)
 
-**Course Dates:** Tuesday, May 28 – Tuesday, July 2, 2019 (6 weeks)
-
-**Class Times:** Tuesday and Thursday at 10:15–11:50am (11 class sessions)
+**Class Times:** Monday, Wednesday, and Friday at 9:30–11:20am (20 class sessions)
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  1  | Mon, Oct 21 | [Array and matrix manipulation] |
-|  2  | Wed, Oct 23       | [What is Neural Network?] |
-|  3  | Mon, Oct 28           | [Introduction to Keras] |
-|  4  | Wed, Oct 30       | [Deep Learning Glossary]
-|  5  | Mon, Nov 4       | [Convolutional Neural Network] |
-|  6  | Wed, Nov 6          | [Recurrent Neural Network] |
-|  7  | Mon, Nov 11       | [Keras for Large Datasets] |
-|  8  | Wed, Nov 13          | [Deep Learning Model Evaluation] |
-|  9  | Mon, Nov 18        | [Introduction to Tensorflow] |
-|  10 | Wed, Nov 20             | [Hyper parameter opt]
-| 11  | Mon, Nov 25             | Review|
-| -   | Wed, Nov 27             | **NO CLASS** - Thanksgiving  |
-|  12 | Mon, Dec 2             |[Auto Encoders] |
-|  13 | Wed, Dec 4         |More About Tensorflow|
-|  14 | Mon, Dec 9         | Final Exam |
-| 15  | Wed, Dec 11             | Final Presentations |
+|  1 |  Mon, June 1               | [Array and matrix manipulation] |
+|  2 |  Wed, June 3               | [What is Neural Network?] |
+|  3 |  Fri, June 5               | Activity Day |
+|  4 |  Mon, June 8               | [Introduction to Keras] |
+|  5 |  Wed, June 10               | [Deep Learning Glossary] |
+|  6 |  Fri, June 12               | Activity Day |
+|  7 |  Mon, June 15               | [Convolutional Neural Network] |
+|  8 |  Wed, June 17              | [Recurrent Neural Network] |
+|  9 |  Fri, June 19              | Activity Day |
+| 10 |  Mon, June 22              | [Keras for Large Datasets] |
+| 11 |  Wed, June 24              | [Deep Learning Model Evaluation] |
+| 12 |  Fri, June 26              | Activity Day |
+| 13 |  Mon, June 29              | [Introduction to Tensorflow 1.X] |
+| 14 |  Wed, July 1              | [Hyper parameter opt]|  
+| -  |  Fri, July 3              | **NO CLASS - INDEPENDENCE DAY OBSERVED**|
+| 15 |  Mon, July 6              | [Auto Encoders]|
+| 16 |  Wed, July 8                 | [More About Tensorflow] |
+| 17 |  Fri, July 10                  | Activity Day |
+| 18 |  Mon, July 13                  | Details about Deep Learning cost functions |
+| 19 |  Wed, July 15                 | Final Exam |
+| 20 |  Fri, July 17                 | Presentations |
+
+
 
 [Array and matrix manipulation]:Lessons/Arrayandmatrixmanipulation.md
 [What is Neural Network?]: Lessons/WhatisNeuralNetwork.md
@@ -64,11 +69,16 @@ Students by the end of the course will be able to ...
 
 ## Class Assignments
 
-- Build a linear regression and logistic regression with Keras
-- Apply MLP for Churn dataset by Keras
-- Apply MLP to MNIST datasets
-- [Build and train a CNN + MLP deep learning model with Keras for MNIST dataset](https://github.com/Make-School-Courses/DS-2.2-Deep-Learning/blob/master/Assignments/CNN_assignment.ipynb)
-- Projects should be linked to a project page which has a description & requirements.
+|                        Assignment                         | Date Assigned |   Due Date   |            Submission Form           |
+|:---------------------------------------------------------:|:-------------:|:------------:|:------------------------------------:|
+| [Homework 1 - Build a linear regression and logistic regression with Keras]                      |  Mon, June 8  |  Mon, June 15 | [Submit Assignment]  |
+| [Homework 2 - Build and train a CNN + MLP deep learning model with Keras for MNIST dataset]                      |  Mon, June 15    |  Mon, June 22   | [Submit Assignment]  |
+| [Homework 3 - Apply MLP for Churn dataset by Keras]                     |  Mon, June 22    |  Mon, June 29   | [Submit Assignment]  |
+
+- [Homework 1 - Build a linear regression and logistic regression with Keras](https://github.com/Make-School-Courses/DS-2.2-Deep-Learning/blob/master/Assignments/HW1.ipynb)
+- [Homework 2 - Build and train a CNN + MLP deep learning model with Keras for MNIST dataset](https://github.com/Make-School-Courses/DS-2.2-Deep-Learning/blob/master/Assignments/CNN_assignment.ipynb)
+
+
 
 ### Tutorials
 - We'll be exploring Keras on the Cifar dataset
