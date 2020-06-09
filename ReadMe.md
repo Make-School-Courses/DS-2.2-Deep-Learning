@@ -77,7 +77,7 @@ Students by the end of the course will be able to ...
 
 - [Homework 1 - Build a linear regression and logistic regression with Keras]: https://github.com/Make-School-Courses/DS-2.2-Deep-Learning/blob/master/Assignments/HW1.ipynb
 - [Homework 2 - Build and train a CNN + MLP deep learning model with Keras for MNIST dataset]: https://github.com/Make-School-Courses/DS-2.2-Deep-Learning/blob/master/Assignments/CNN_assignment.ipynb
-
+[Submit Assignment]: https://docs.google.com/spreadsheets/d/1LqaMEDB-MFhtDktOz0SIS4m6pHPjpnIB2bG3K0yMzBk/edit#gid=139168632
 
 
 ### Tutorials
