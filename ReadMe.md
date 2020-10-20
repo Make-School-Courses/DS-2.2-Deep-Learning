@@ -30,33 +30,27 @@ Students by the end of the course will be able to ...
 
 ## Schedule
 
-**Course Dates:** Monday, June 1 – Friday, July 17, 2020 (7 weeks)
+**Course Dates:** Wednesday, October 21 – Wednesday, December 9, 2020 (8 weeks)
 
-**Class Times:** Monday, Wednesday, and Friday at 9:30–11:20am (20 class sessions)
+**Class Times:** Monday, Wednesday at 2:45pm–5:30pm (13 class sessions)
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Mon, June 1               | [Array and matrix manipulation] |
-|  2 |  Wed, June 3               | [What is Neural Network?] |
-|  3 |  Fri, June 5               | Activity Day |
-|  4 |  Mon, June 8               | [Introduction to Keras] |
-|  5 |  Wed, June 10               | [Deep Learning Glossary] |
-|  6 |  Fri, June 12               | Activity Day |
-|  7 |  Mon, June 15               | [Convolutional Neural Network] |
-|  8 |  Wed, June 17              | [Recurrent Neural Network] |
-|  9 |  Fri, June 19              | Activity Day |
-| 10 |  Mon, June 22              | [Keras for Large Datasets] |
-| 11 |  Wed, June 24              | [Deep Learning Model Evaluation] |
-| 12 |  Fri, June 26              | Activity Day |
-| 13 |  Mon, June 29              | [Introduction to Tensorflow 1.X] |
-| 14 |  Wed, July 1              | [Hyper parameter opt]|  
-| -  |  Fri, July 3              | **NO CLASS - INDEPENDENCE DAY OBSERVED**|
-| 15 |  Mon, July 6              | [Auto Encoders]|
-| 16 |  Wed, July 8                 | [More About Tensorflow] |
-| 17 |  Fri, July 10                  | Activity Day |
-| 18 |  Mon, July 13                  | Details about Deep Learning cost functions |
-| 19 |  Wed, July 15                 | Final Exam |
-| 20 |  Fri, July 17                 | Presentations |
+|  1 |  Wed, Oct 21               | [Array and matrix manipulation] |
+|  2 |  Mon, Oct 26               | [What is Neural Network?] |
+|  3 |  Wed, Oct 28               | [Introduction to Keras]  | Quiz 1
+|  - |  Mon, Nov 2              | **Vote! - Civic Responsibility Break** |
+|  4 |  Wed, Nov 4               | [Deep Learning Glossary] | Due: HW 1
+|  5 |  Mon, Nov 9               | [Convolutional Neural Network] |
+|  6 |  Wed, Nov 11               | [Recurrent Neural Network] [Final Project Kickoff] |
+|  7 |  Mon, Nov 16              | [Keras for Large Datasets] | Quiz 2
+|  8 |  Wed, Nov 18              | [Deep Learning Model Evaluation] | Due: HW 2
+|  9 |  Mon, Nov 23              | [Introduction to Tensorflow 1.X] | Due: Project Proposals
+|  - |  Wed, Nov 25               | **Holiday - Thanksgiving** |
+| 10 |  Mon, Nov 30              | [Hyper parameter opt] | Due: HW 3
+| 11 |  Wed, Dec 2              | [Auto Encoders] | Quiz 3
+| 12 |  Mon, Dec 7              | [More About Tensorflow]|
+| 13 |  Wed, Dec 9                | Final Project Presentations | Due: Final Project
 
 
 
@@ -73,35 +67,15 @@ Students by the end of the course will be able to ...
 [Auto Encoders]: Lessons/AutoEncoders.md
 
 
-## Class Assignments
-
-|                        Assignment                         | Date Assigned |   Due Date   |            Submission Form           |
-|:---------------------------------------------------------:|:-------------:|:------------:|:------------------------------------:|
-| [Homework 1 - Build a linear regression and logistic regression with Keras]                      |  Mon, June 8  |  Mon, June 15 | [Submit Assignment]  |
-| [Homework 2 - Build and train a CNN + MLP deep learning model with Keras for MNIST dataset]                      |  Mon, June 15    |  Mon, June 22   | [Submit Assignment]  |
-| [Homework 3 - Apply MLP for Churn dataset by Keras]                     |  Mon, June 22    |  Mon, June 29   | [Submit Assignment]  |
-
-[Homework 1 - Build a linear regression and logistic regression with Keras]: https://github.com/Make-School-Courses/DS-2.2-Deep-Learning/blob/master/Assignments/HW1.ipynb
-[Homework 2 - Build and train a CNN + MLP deep learning model with Keras for MNIST dataset]: https://github.com/Make-School-Courses/DS-2.2-Deep-Learning/blob/master/Assignments/CNN_assignment.ipynb
-[Submit Assignment]: https://docs.google.com/spreadsheets/d/1LqaMEDB-MFhtDktOz0SIS4m6pHPjpnIB2bG3K0yMzBk/edit#gid=139168632
-
-
-### Tutorials
-- We'll be exploring Keras on the Cifar dataset
-- https://www.makeschool.com/academy/track/standalone/keras-for-image-classification-pfw/keras-and-neural-networks
-
-### Projects
-- You will choose your own dataset to clean, investigate, and make predictions or classification or clustering on it
-
-
 ## Evaluation
 
 To pass this course you must meet the following requirements:
 
 - Pass all required tutorials and projects (see associated rubrics)
-- Pass the final summative assessment >=75%
+- Pass all quizzes
 - Actively participate in class and abide by the attendance policy
 - Make up all classwork from all absences
+- If an assignment is not passing you have 1 week to make any necessary fixes and resubmit for full points
 
 ##  Information Resources
 
