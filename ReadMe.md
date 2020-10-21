@@ -36,7 +36,7 @@ Students by the end of the course will be able to ...
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Wed, Oct 21               | [Array and matrix manipulation] |
+|  1 |  Wed, Oct 21               | [Intro to Deep Learning] |
 |  2 |  Mon, Oct 26               | [What is Neural Network?] |
 |  3 |  Wed, Oct 28               | [Introduction to Keras]  | Quiz 1
 |  - |  Mon, Nov 2              | **Vote! - Civic Responsibility Break** |
@@ -53,7 +53,7 @@ Students by the end of the course will be able to ...
 | 13 |  Wed, Dec 9                | Final Project Presentations | Due: Final Project
 
 
-
+[Intro to Deep Learning]:https://docs.google.com/presentation/d/1vxQ_R8-gEtR896EoC1_ObSKoWJZje40H8wcXzdltjpo/edit#slide=id.g9e8c78a5a9_0_81
 [Array and matrix manipulation]:Lessons/Arrayandmatrixmanipulation.md
 [What is Neural Network?]: Lessons/WhatisNeuralNetwork.md
 [Introduction to Keras]: Lessons/IntroductiontoKeras.md
