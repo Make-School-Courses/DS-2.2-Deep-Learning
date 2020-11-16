@@ -42,14 +42,14 @@ Students by the end of the course will be able to ...
 |  - |  Mon, Nov 2              | **Vote! - Civic Responsibility Break** |
 |  4 |  Wed, Nov 4               | [Deep Learning Glossary] | 
 |  5 |  Mon, Nov 9               | [Convolutional Neural Network] |
-|  6 |  Wed, Nov 11               | [Recurrent Neural Network] [Final Project Kickoff] | Due: [Intro to Keras](Lessons/introkeras.md)
+|  6 |  Wed, Nov 11               | [Recurrent Neural Network] Final Project Kickoff | Due: [Intro to Keras](Lessons/introkeras.md)
 |  7 |  Mon, Nov 16              | [Keras for Large Datasets] | Quiz 2
 |  8 |  Wed, Nov 18              | [Deep Learning Model Evaluation] | Due: CNN Practice [Lessons/cnnpractice.md]
-|  9 |  Mon, Nov 23              | [Introduction to Tensorflow 1.X] | Due: Project Proposals
+|  9 |  Mon, Nov 23              | [Introduction to Tensorflow] | Due: Project Proposals
 |  - |  Wed, Nov 25               | **Holiday - Thanksgiving** |
 | 10 |  Mon, Nov 30              | [Hyper parameter opt] | Due: HW 3
 | 11 |  Wed, Dec 2              | [Auto Encoders] | Quiz 3
-| 12 |  Mon, Dec 7              | [More About Tensorflow]|
+| 12 |  Mon, Dec 7              | More About Tensorflow |
 | 13 |  Wed, Dec 9                | Final Project Presentations | Due: [Final Project](Lessons/finalproject.md)
 
 
