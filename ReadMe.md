@@ -47,7 +47,7 @@ Students by the end of the course will be able to ...
 |  8 |  Wed, Nov 18              | [Deep Learning Model Evaluation] | Due: [CNN Practice](Lessons/cnnpractice.md)
 |  9 |  Mon, Nov 23              | [Introduction to Tensorflow] | Due: Project Proposals
 |  - |  Wed, Nov 25               | **Holiday - Thanksgiving** |
-| 10 |  Mon, Nov 30              | [Hyper parameter opt] | Due: HW 3
+| 10 |  Mon, Nov 30              | [Hyper parameter opt] |
 | 11 |  Wed, Dec 2              | [Auto Encoders] | Quiz 3
 | 12 |  Mon, Dec 7              | More About Tensorflow |
 | 13 |  Wed, Dec 9                | Final Project Presentations | Due: [Final Project](Lessons/finalproject.md)
