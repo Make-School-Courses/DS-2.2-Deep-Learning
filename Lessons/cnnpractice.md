@@ -1,0 +1,1 @@
+CNN Practice project details coming soon
