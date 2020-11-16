@@ -34,8 +34,8 @@ Students by the end of the course will be able to ...
 
 **Class Times:** Monday, Wednesday at 2:45pm–5:30pm (13 class sessions)
 
-| Class |          Date          |                 Topics                  |
-|:-----:|:----------------------:|:---------------------------------------:|
+| Class | Date | Topic | Assignments
+|:-----:|:----------------------:|:---------------------------------------:| :----: |
 |  1 |  Wed, Oct 21               | [Intro to Deep Learning] |
 |  2 |  Mon, Oct 26               | [What is a Neural Network?] |
 |  3 |  Wed, Oct 28               | [Introduction to Keras]  | Quiz 1
@@ -44,7 +44,7 @@ Students by the end of the course will be able to ...
 |  5 |  Mon, Nov 9               | [Convolutional Neural Network] |
 |  6 |  Wed, Nov 11               | [Recurrent Neural Network] Final Project Kickoff | Due: [Intro to Keras](Lessons/introkeras.md)
 |  7 |  Mon, Nov 16              | [Keras for Large Datasets] | Quiz 2
-|  8 |  Wed, Nov 18              | [Deep Learning Model Evaluation] | Due: CNN Practice [Lessons/cnnpractice.md]
+|  8 |  Wed, Nov 18              | [Deep Learning Model Evaluation] | Due: [CNN Practice](Lessons/cnnpractice.md)
 |  9 |  Mon, Nov 23              | [Introduction to Tensorflow] | Due: Project Proposals
 |  - |  Wed, Nov 25               | **Holiday - Thanksgiving** |
 | 10 |  Mon, Nov 30              | [Hyper parameter opt] | Due: HW 3
