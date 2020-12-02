@@ -45,7 +45,7 @@ Students by the end of the course will be able to ...
 |  6 |  Wed, Nov 11               | Backpropagation and Gradient Descent  | Due: [Intro to Keras](Lessons/introkeras.md)
 |  7 |  Mon, Nov 16              | Lab Day | Quiz 2
 |  8 |  Wed, Nov 18              | [Intro to CNN's](https://docs.google.com/presentation/d/1fZkrBcY_dzIVP3gPNyQyQUPPu2cqGe2YV0Chjxj8tRU/edit#slide=id.p) | 
-|  9 |  Mon, Nov 23              | [Deep Learning Model Evaluation] | Due: Project Proposals, Due: [CNN Practice](Lessons/cnnpractice.md)
+|  9 |  Mon, Nov 23              | [Deep Learning Model Evaluation] | Due: [CNN Practice](Lessons/cnnpractice.md)
 |  - |  Wed, Nov 25               | **Holiday - Thanksgiving** |
 | 10 |  Mon, Nov 30              | [Introduction to Tensorflow] |
 | 11 |  Wed, Dec 2              | [Hyper parameter opt]| Quiz 3
