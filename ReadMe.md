@@ -50,7 +50,7 @@ Students by the end of the course will be able to ...
 | 10 |  Mon, Nov 30              | [Introduction to Tensorflow] |
 | 11 |  Wed, Dec 2              | [Hyper parameter opt]| Quiz 3
 | 12 |  Mon, Dec 7              | [Auto Encoders]|
-| 13 |  Wed, Dec 9                | Final Project Presentations | Due: [Final Project](https://www.gradescope.com/courses/202247/assignments/882051)
+| 13 |  Wed, Dec 9                | Final Project Presentations | Due: [Final Project](Lessons/finalproject.md)
 
 
 [Intro to Deep Learning]:https://docs.google.com/presentation/d/1vxQ_R8-gEtR896EoC1_ObSKoWJZje40H8wcXzdltjpo/edit#slide=id.g9e8c78a5a9_0_81
