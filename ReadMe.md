@@ -38,18 +38,18 @@ Students by the end of the course will be able to ...
 |:-----:|:----------------------:|:---------------------------------------:| :----: |
 |  1 |  Wed, Oct 21               | [Intro to Deep Learning] |
 |  2 |  Mon, Oct 26               | [What is a Neural Network?] |
-|  3 |  Wed, Oct 28               | [Introduction to Keras]  | Quiz 1
+|  3 |  Wed, Oct 28               | [What is a Neural Network?]  | Quiz 1
 |  - |  Mon, Nov 2              | **Vote! - Civic Responsibility Break** |
-|  4 |  Wed, Nov 4               | [Deep Learning Glossary] | 
-|  5 |  Mon, Nov 9               | [Convolutional Neural Network] |
-|  6 |  Wed, Nov 11               | [Recurrent Neural Network] Final Project Kickoff | Due: [Intro to Keras](Lessons/introkeras.md)
-|  7 |  Mon, Nov 16              | [Keras for Large Datasets] | Quiz 2
-|  8 |  Wed, Nov 18              | [Deep Learning Model Evaluation] | Due: [CNN Practice](Lessons/cnnpractice.md)
-|  9 |  Mon, Nov 23              | [Introduction to Tensorflow] | Due: Project Proposals
+|  4 |  Wed, Nov 4               | [Introduction to Keras] | 
+|  5 |  Mon, Nov 9               | Backpropagation and Gradient Descent  |
+|  6 |  Wed, Nov 11               | Backpropagation and Gradient Descent  | Due: [Intro to Keras](Lessons/introkeras.md)
+|  7 |  Mon, Nov 16              | Lab Day | Quiz 2
+|  8 |  Wed, Nov 18              | [Intro to CNN's](https://docs.google.com/presentation/d/1fZkrBcY_dzIVP3gPNyQyQUPPu2cqGe2YV0Chjxj8tRU/edit#slide=id.p) | 
+|  9 |  Mon, Nov 23              | [Deep Learning Model Evaluation] | Due: [CNN Practice](Lessons/cnnpractice.md)
 |  - |  Wed, Nov 25               | **Holiday - Thanksgiving** |
-| 10 |  Mon, Nov 30              | [Hyper parameter opt] |
-| 11 |  Wed, Dec 2              | [Auto Encoders] | Quiz 3
-| 12 |  Mon, Dec 7              | More About Tensorflow |
+| 10 |  Mon, Nov 30              | [Introduction to Tensorflow] |
+| 11 |  Wed, Dec 2              | [Hyper parameter opt]| Quiz 3
+| 12 |  Mon, Dec 7              | [Auto Encoders]|
 | 13 |  Wed, Dec 9                | Final Project Presentations | Due: [Final Project](Lessons/finalproject.md)
 
 
