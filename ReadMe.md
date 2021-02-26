@@ -37,8 +37,8 @@ Students by the end of the course will be able to ...
 | Class | Date | Topic | Assignments
 |:-----:|:----------------------:|:---------------------------------------:| :----: |
 |  1 |  Wed, Oct 21               | [Intro to Deep Learning] |
-|  2 |  Mon, Oct 26               | [What is a Neural Network?] |
-|  3 |  Wed, Oct 28               | [What is a Neural Network?]  | Quiz 1
+|  2 |  Mon, Oct 26               | [What is a Neural Network? - Slides] |
+|  3 |  Wed, Oct 28               | [What is a Neural Network?] + [Recurrent Neural Networks]  | Quiz 1
 |  - |  Mon, Nov 2              | **Vote! - Civic Responsibility Break** |
 |  4 |  Wed, Nov 4               | [Introduction to Keras] | 
 |  5 |  Mon, Nov 9               | Backpropagation and Gradient Descent  |
@@ -55,7 +55,9 @@ Students by the end of the course will be able to ...
 
 [Intro to Deep Learning]:https://docs.google.com/presentation/d/1vxQ_R8-gEtR896EoC1_ObSKoWJZje40H8wcXzdltjpo/edit#slide=id.g9e8c78a5a9_0_81
 [Array and matrix manipulation]:Lessons/Arrayandmatrixmanipulation.md
+[What is a Neural Network? - Slides]: https://docs.google.com/presentation/d/1QstriVSuk8ZXWYjPrJ6SZUTjjYTC9Z6HHwJAun-hBEE/edit#slide=id.p
 [What is a Neural Network?]: Lessons/WhatisNeuralNetwork.md
+[Recurrent Neural Networks]: https://docs.google.com/presentation/d/1n6yhW4jeQzv-qVxga__2M2mIRHU1vaMm1NIH15uWTOw/edit#slide=id.p
 [Introduction to Keras]: Lessons/IntroductiontoKeras.md
 [Deep Learning Glossary]: Lessons/DeepLearningGlossary.md
 [Convolutional Neural Network]: Lessons/ConvolutionalNeuralNetwork.md
